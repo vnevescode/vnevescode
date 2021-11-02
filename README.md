@@ -17,7 +17,7 @@
 
 <h2 align="left">:smile: About me</h2>
 <p align="left">
-Brazil / Brasilia - Federal District (GMT-3)
+:clock2: Timezone: Brazil / Brasilia - Federal District (GMT-3)
 </p>
 <br />
 <p>My last job, I worked with pure Javascript, HTML and CSS to build a tax management system for companies.</p>
@@ -31,7 +31,7 @@ Brazil / Brasilia - Federal District (GMT-3)
 <br />
 
 <p>
-<h3 align="left"> Languages and Tools</h3>
+<h3 align="left">:computer: Languages and Tools</h3>
 </p>
 
 
