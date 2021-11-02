@@ -15,7 +15,7 @@
 <br />
 
 
-<h2 align="center">About me :smile:</h2>
+<h2 align="left">About me :smile:</h2>
 <p align="center">
 Brazil / Brasilia - Federal District (GMT-3)
 </p>
@@ -31,8 +31,9 @@ Brazil / Brasilia - Federal District (GMT-3)
 <br />
 
 <p>
-<h3 align="center"> Languages and Tools</h3>
+<h3 align="left"> Languages and Tools</h3>
 </p>
+
 
 ---
   
@@ -44,6 +45,10 @@ Brazil / Brasilia - Federal District (GMT-3)
   <img align="center" alt="Victor-CSS" height="90" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
   <img align="center" alt="Victor-Python" height="90" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">  
 </div>
+
+<p>
+<h3 align="left"> &#x1f4c8 GitHub Stats</h3>
+</p>
 
 ---
 
