@@ -9,7 +9,7 @@
 </p>
 </br>
 
-<p>Enthusiastic Software Web Engineer since 2016 using JS.</p>
+<p>Enthusiastic Software Web Engineer since 2016 using JS. Pursing a BS degree in Computer Information Systems <br>at UFPE( currently in the 5th period )</p>
 <br />
 
 
