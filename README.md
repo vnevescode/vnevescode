@@ -9,7 +9,7 @@
 </p>
 </br>
 
-<p>Enthusiastic Software Web Engineer since 2016 using JS. Pursing a BS degree in Computer Information Systems <br>at UFPE( currently in the 5th period )  
+<p>Enthusiastic Software Engineer Web since 2016 using JS. Pursing a BS degree in Computer Information Systems <br>at UFPE( currently in the 5th period )  
 <img align="right" alt="GIF" src="https://github.com/vnevescode/vnevescode/blob/main/code.gif?raw=true" width="400" height="320" />
 </p>
 <br />
