@@ -3,9 +3,10 @@
 </p>
 
 <p align="center">
-  <a href="mailto:victorneves15@gmail.com" alt="Contact me"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail></a> &nbsp;
+  
+  <a href="mailto:victorneves15@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail/></a>&nbsp;
   <a href="https://codepen.io/victorneves15"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" /></a>&nbsp;
-  <a href="https://www.linkedin.com/in/victor-neves-27006763/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/victor-neves-27006763/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
 
 </p>
 <br />
