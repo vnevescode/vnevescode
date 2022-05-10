@@ -57,10 +57,7 @@
 </p>
 
 ---
+![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=vnevescode&count_private=true&theme=cobalt)
+<img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vnevescode&theme=cobalt&layout=compact"/>
 
-<div align="">
-  <a href="https://github.com/vnevescode">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vnevescode&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vnevescode&theme=cobalt"/>
-</div>
   
