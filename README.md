@@ -58,6 +58,6 @@
 
 ---
 ![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=vnevescode&count_private=true&theme=cobalt)
-<img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vnevescode&theme=cobalt&layout=compact"/>
+<img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vnevescode&theme=cobalt"/>
 
   
