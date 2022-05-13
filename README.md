@@ -21,6 +21,8 @@
 </p>
 <br />
 <p>My last job, I worked with pure Javascript, HTML and CSS to build a tax management system for companies.</p>
+<p>My current job, I have been worked with React,React Native,GraphQl,Node JS, PHP, Laravel to build some web apps and mobile apps.</p>
+
 
 :muscle: I'm currently studying Node js, React, Mongo and Typescript.<br />
 :dizzy_face: I’m looking for help with ... TypeScript<br />
