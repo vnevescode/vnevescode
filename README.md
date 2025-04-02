@@ -10,8 +10,13 @@
 </br>
 
 <p>Enthusiastic Software Engineer Web since 2016 using JavaScript. I am pursuing a bachelor's degree from UFPE(Universidade Federal de Pernambuco) and studying Computer Information Systems.   
-<img align="right" alt="GIF" src="https://github.com/vnevescode/vnevescode/blob/main/code.gif?raw=true" width="400" height="320" />
+<img align="right" alt="GIF" src="https://github.com/vnevescode/vnevescode/blob/main/code.gif?raw=true" width="300" height="220" />
 </p>
+<br />
+<br />
+<br />
+<br />
+<br />
 <br />
 
 
